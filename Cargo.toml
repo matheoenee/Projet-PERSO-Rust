@@ -2,5 +2,6 @@
 name = "Reed-Solomon-Codes"
 version = "0.1.0"
 edition = "2021"
+num = "0.4"
 
 [dependencies]
